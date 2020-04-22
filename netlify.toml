@@ -1,0 +1,12 @@
+[build]
+  command = "hugo"
+  base    = ""
+  publish = "public"
+
+[build.environment]
+  HUGO_THEME = ""
+  HUGO_VERSION = "0.58.3"
+  HUGO_ENABLEGITINFO = "false"
+
+[context.production.environment]
+  HUGO_ENV = "production"
