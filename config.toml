@@ -6,7 +6,7 @@ languageCode = "zh"
 DefaultContentLanguage = "zh"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-googleAnalytics = "UA-XXXX"
+googleAnalytics = "UA-164265930-1"
 DisqusShortname = ""
 theme = "chunky-poster"
 
