@@ -1,0 +1,12 @@
+# Single
+wordCount:
+    one: "{{ .Count }} 字"
+    other: "{{ .Count }} 字"
+
+readingTime:
+    one: "需要 {{ .Count }} 分钟阅读"
+    other: "需要 {{ .Count }} 分钟阅读"
+
+# Author
+articles:
+    other: "作品"
